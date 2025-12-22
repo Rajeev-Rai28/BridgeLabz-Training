@@ -11,9 +11,11 @@ Method to find the largest and second largest elements in the digits array. Use 
 Method to find the the smallest and second smallest elements in the digits array. Use Integer.MAX_VALUE to initialize the variable.
 */
 
+//create a class NumberChecker
 import java.util.Scanner;
 public class NumberChecker{
-		
+	
+	// calculate a count digits in number 
 	public static int countDigits(int number){
 		int count = 0;
 		
@@ -26,6 +28,7 @@ public class NumberChecker{
 		return count;
 	}
 	
+	// insert digits in Array 
 	public static int[] digitsStoreInArray(int number, int count){
 		
 		int [] arr = new int[count];
@@ -40,9 +43,8 @@ public class NumberChecker{
 	}
 	
 	
-	
+	//check duck number or not
 	public static boolean checkIsDuck(int digitsArray[]){
-
 		boolean check = true;
 		for(int i = 0; i<digitsArray.length; i++){
 			if(digitsArray[i] == 0){
@@ -53,6 +55,7 @@ public class NumberChecker{
 		return check;
 	}
 	
+	//check number is armstrongor not
 	public static boolean isArmstrong(int [] digitsArray, int number){
 		
 		int sum = 0;
@@ -67,6 +70,7 @@ public class NumberChecker{
 		
 	}
 	
+	//find largest and second largest
 	public static int[] largestAndSecondLargest(int [] digitsArray){
 		int largest = Integer.MIN_VALUE;
 		int secondLargest = Integer.MIN_VALUE;
@@ -83,6 +87,7 @@ public class NumberChecker{
 		return new int [] {largest, secondLargest};
 	}
 	
+	//find smallest and second smallest
 	public static int[] smallestAndSeconSmallest(int [] digitsArray){
 
 		int smallest = Integer.MAX_VALUE;
@@ -93,7 +98,7 @@ public class NumberChecker{
 				secondSmallest = smallest;
 				smallest = digitsArray[i];
 			}
-			else if(digitsArray[i] < secondSmallest && digitsArray[i] != smallest){
+			else if(digitsArray[i] < secondSmallest && digitsArray[i] != smallest){+
 				secondSmallest = digitsArray[i];
 			}
 		}
@@ -103,6 +108,7 @@ public class NumberChecker{
 	
 	public static void main(String [] args){
 		
+		//create a Scanner object
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a Number : ");
 		int number = sc.nextInt();
