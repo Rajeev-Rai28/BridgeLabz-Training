@@ -25,7 +25,7 @@ BridgeLabz-Training/
 │ │── leet-code-codebase/
 │ │── scenario-based-codebase/
 │── README.md
-
+```
 - Learned basic Git commands (init, clone, add, commit, push).
 - Successfully pushed files to the remote repository.
 
