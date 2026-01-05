@@ -1,6 +1,6 @@
 package com.day1.universityEnrollmentSystem;
 
-class Enrollment implements Graded {
+public class Enrollment implements Graded {
 
     private Student student;
     private Course course;

@@ -4,11 +4,11 @@ public class UniversityManagementSystem {
 
     public static void main(String[] args) {
 
-        Student s1 = new Undergraduate("Rajeev", 101);
-        Student s2 = new Postgraduate("Roachit", 201, 3.5);
+        Student s1 = new Undergraduate("Ayush", 101);
+        Student s2 = new Postgraduate("Rohit", 201, 3.5);
 
         Course course = new Course("Machine Learning");
-        Faculty faculty = new Faculty("Dr. Yadav");
+        Faculty faculty = new Faculty("Dr. Sharma");
 
         Enrollment e1 = new Enrollment(s1, course);
         Enrollment e2 = new Enrollment(s2, course);

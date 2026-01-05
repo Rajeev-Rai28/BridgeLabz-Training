@@ -1,6 +1,6 @@
 package com.day1.universityEnrollmentSystem;
 
-class Course {
+public class Course {
 
     private String courseName;
 
