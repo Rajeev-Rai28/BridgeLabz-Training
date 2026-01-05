@@ -8,8 +8,13 @@ public class Customer {
 		this.name = name;
 		this.custId = custId;
 	}
-	public void display() {
-		System.out.println("Cutomer Name : "+name+", Customer Id : "+custId);
+	
+	public String getName() {
+		return name;
+	}
+	
+	public int getCustId() {
+		return custId;
 	}
 
 }

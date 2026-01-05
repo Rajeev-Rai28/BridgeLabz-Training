@@ -1,21 +1,21 @@
 package com.day1.vehicleRentalApplication;
 
 public class VehicleRentApp {
-	public static void main(String [] args) {
-		Bike b1 = new Bike(null, "MP101",0);
-		Car c1 = new Car(null, "MP202", 0);
-		Truck t1 = new Truck(null, "MP 303", 0);
-		
-		Customer cust1 = new Customer("Raj", 505);
-		
-		cust1.display();
-		
-		
-		System.out.println("Bike Rent charge : "+b1.rentCalculation(5));
-		b1.display();
-		System.out.println("Car Rent charge : "+c1.rentCalculation(2));
-		c1.display();
-		System.out.println("Truck Rent charge : "+t1.rentCalculation(2));
-		t1.display();
-	}
+	public static void main(String[] args) {
+
+        Customer customer = new Customer("Ayush", 101);
+
+        Bike bike = new Bike("null", "BIKE-101", 0);
+        Car car = new Car("null", "CAR-202", 0);
+        Truck truck = new Truck("null", "TRUCK-303", 0);
+
+        int days = 3;
+
+        System.out.println("Customer: " + customer.getName()+"\nCustomer Id : "+customer.getCustId());
+
+        System.out.println("\nRental Details");
+        System.out.println("Bike Rent: ₹" + bike.rentCalculation(days));
+        System.out.println("Car Rent: ₹" + car.rentCalculation(days));
+        System.out.println("Truck Rent: ₹" + truck.rentCalculation(days));
+    }
 }

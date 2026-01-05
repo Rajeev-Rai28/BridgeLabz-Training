@@ -23,7 +23,7 @@ public class Vehicle {
 		return vehicleNumber;
 	}
 	
-	public void setBaserate() {
+	public void setBaserate(int baseRate) {
 		this.baseRate = baseRate;
 	}
 	

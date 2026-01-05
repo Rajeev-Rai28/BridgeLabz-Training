@@ -9,8 +9,4 @@ public class Truck extends Vehicle {
 	public double rentCalculation(int days) {
 		return (baseRate*days+30);
 	}
-	
-	public void display() {
-		System.out.println("Vehicle type : "+vehicleType+", Vehicle Number : "+vehicleNumber+", Base Rate : "+baseRate);
-	}
 }

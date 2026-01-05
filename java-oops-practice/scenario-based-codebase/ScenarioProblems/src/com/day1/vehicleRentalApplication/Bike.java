@@ -11,8 +11,5 @@ public class Bike extends Vehicle {
 		return (baseRate*days+10);
 	}
 	
-	public void display() {
-		System.out.println("Vehicle type : "+vehicleType+", Vehicle Number : "+vehicleNumber+", Base Rate : "+baseRate);
-	}
 
 }
