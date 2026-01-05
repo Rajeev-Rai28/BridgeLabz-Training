@@ -1,7 +1,7 @@
 package com.day1.vehicleRentalApplication;
 
 public class VehicleRentApp {
-	public static void main(String[] args) {
+	public static void main(String [] args) {
 
         Customer customer = new Customer("Ayush", 101);
 
