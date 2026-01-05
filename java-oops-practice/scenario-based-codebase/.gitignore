@@ -1,25 +1,28 @@
-# Eclipse specific files
-
+# Eclipse / IDE files
 .metadata/
-
 .settings/
-
 .classpath
-
 .project
 
+# Compiled Java files
+*.class
+
 # Java build output
-
 bin/
-
+out/
 target/
 
-# Logs
+# Module system
+module-info.java
 
+# Logs
 *.log
 
-# OS generated files
-
+# OS generated
 .DS_Store
-
 Thumbs.db
+
+# Block nested gitignores & extra repos
+**/.gitignore
+dsa-practice/
+scenario-based-codebase/
