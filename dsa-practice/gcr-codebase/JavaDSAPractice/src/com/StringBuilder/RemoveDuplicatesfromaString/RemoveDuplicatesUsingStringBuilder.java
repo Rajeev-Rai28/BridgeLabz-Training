@@ -24,6 +24,7 @@ public class RemoveDuplicatesUsingStringBuilder {
                 sb.append(ch);
             }
         }
+        
         return sb.toString();
     }
 }
