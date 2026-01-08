@@ -230,3 +230,22 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 👉 [Day 9- Scenario-Based Problems-Day3](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)
 
 ---
+
+### 📅 Day 10 –  Scenario-Based OOP Practice (Java)
+**(Date: 06-Jan-2026)**  
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **EduMentor** – Learning platform with quizzes & certification logic  
+- **FitTrack** – Fitness tracking with workouts & calorie computation  
+- **PetPal** – Virtual pet care with interactive behaviors  
+- **EventEase** – Event booking, scheduling & cost calculation
+
+🔗 **Code Links:**  
+👉 [Day 10- Scenario-Based Problems-Day4](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)
+
+---
