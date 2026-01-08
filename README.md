@@ -327,3 +327,152 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Scenario-Based Problems-Day1 GuideLines--> Learn proper GuideLines and follow these])
 
 ---
+
+
+## 📊 Week 3 – Data Structures & Algorithms
+---
+
+ ### 🗓 Day 15 – Linked Lists 
+**(Date: 02-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Learned fundamentals of **Data Structures**
+- Explored **Linear & Non-Linear Data Structures**
+- Focused on **Linked Lists**:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+- Understood use cases, advantages, and limitations
+- Implemented basic real-world linked list problems
+
+###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **Hospital Patient Management System** – Patient records, doctor assignment & billing  
+- **Vehicle Rental Application** – Vehicle booking, pricing & availability management  
+- **University Course Enrollment System** – Student registration & course allocation  
+- **E-Wallet Application** – Balance management, transactions & security checks  
+- **Smart Home Automation System** – Device control & automation rules
+
+🔗 Code Links:
+👉 [Day 15 -  LinkedList](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/linkedList)
+👉 [Scenario-Based Problems-Day1](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)
+
+---
+
+### 🗓 Day 16 – Stacks, Queues & Hashing 
+**(Date: 03-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Stack (LIFO): recursion, undo/redo, parenthesis check
+- Queue (FIFO): BFS, scheduling, task processing
+- Deque / PriorityQueue: optimized & priority-based access
+- HashMap: key–value storage, O(1) average lookup
+- Hashing: bucket mapping, collision handling
+- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
+- Focus: optimized O(n) solutions & clean code
+
+###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CabbyGo** – Ride-hailing app with booking & fare calculation  
+- **MyBank** – Banking system with accounts, transactions & validation
+
+🔗 Code Links:
+👉 [Day 16 -  Stacks, Queues](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/stackandqueue)
+👉 [hashmapandhashfunctions](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/hashmapandhashfunctions)
+👉 [Scenario-Based Problems-Day2](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)
+
+---
+
+### 🗓 Day 17 – Sorting Algorithms 
+**(Date: 05-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+###  Sorting Algorithms (DSA)
+
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+**Focus:**  
+- Time & space complexity analysis  
+- Comparison vs Non-comparison sorting  
+- In-place vs Stable sorting  
+- Real-world datasets (marks, prices, salaries, ages)
+
+###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Strengthened **Core OOP Concepts** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **CampusConnect** – College Information System
+- **SwiftCart** – Grocery Shopping App
+
+🔗 **Code Links:**  
+👉 [Day 17- Sorting Algorithms ](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/Sorting)  
+👉 [Scenario-Based Problems-Day3](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)
+
+---
+
+### 🗓 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+**(Date: 06-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
+
+- **File-Based Searching**
+  - Read large files using BufferedReader
+  - Extract & search words using linear and binary search
+
+- **String Optimization**
+  - String vs StringBuilder vs StringBuffer
+  - Performance & thread-safety comparison
+
+###  Searching Algorithms (DSA)
+- **Linear Search**
+  - Array & text-based searching
+  - Best for unsorted or small datasets
+
+- **Binary Search**
+  - Rotated arrays, peak elements, 2D matrices
+  - First/last occurrence in sorted data
+
+###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **EduMentor** – Learning platform with quizzes & certification logic  
+- **FitTrack** – Fitness tracking with workouts & calorie computation  
+- **PetPal** – Virtual pet care with interactive behaviors  
+- **EventEase** – Event booking, scheduling & cost calculation
+
+🔗 **Code Links:**  
+👉 [Day 18- Searching Algorithms ](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/Searching) 
+👉 [StringBuilder](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/StringBuilder)
+👉 [StringBuffer](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/StringBuilder)
+👉 [FileReader](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/FileReader)
+👉 [InputStreamReader](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/InputStreamReader)
+👉 [ChallengeProblem](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/ChallengeProblems)
+👉 [Scenario-Based Problems-Day4](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)
+
+---
