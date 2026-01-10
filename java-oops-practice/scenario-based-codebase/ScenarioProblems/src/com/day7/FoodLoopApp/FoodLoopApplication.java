@@ -1,4 +1,4 @@
-package com.day6.FoodLoopApp;
+package com.day7.FoodLoopApp;
 
 public class FoodLoopApplication {
     public static void main(String[] args) {

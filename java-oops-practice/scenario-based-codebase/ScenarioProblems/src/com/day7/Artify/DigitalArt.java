@@ -1,4 +1,4 @@
-package com.day6.Artify;
+package com.day7.Artify;
 
 public class DigitalArt extends Artwork implements IPurchasable {
 

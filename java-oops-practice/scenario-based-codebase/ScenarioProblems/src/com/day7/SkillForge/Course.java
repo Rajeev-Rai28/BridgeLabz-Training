@@ -1,4 +1,4 @@
-package com.day6.SkillForge;
+package com.day7.SkillForge;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.day6.Artify;
+package com.day7.Artify;
 
 public class ArtifyApp {
     public static void main(String[] args) {

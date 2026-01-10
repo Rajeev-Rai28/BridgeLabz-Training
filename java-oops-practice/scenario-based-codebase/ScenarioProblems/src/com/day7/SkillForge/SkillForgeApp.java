@@ -1,4 +1,4 @@
-package com.day6.SkillForge;
+package com.day7.SkillForge;
 
 public class SkillForgeApp {
     public static void main(String[] args) {

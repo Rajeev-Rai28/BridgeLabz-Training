@@ -1,4 +1,4 @@
-package com.day6.FoodLoopApp;
+package com.day7.FoodLoopApp;
 
 public class VegItem extends FoodItem{
 	

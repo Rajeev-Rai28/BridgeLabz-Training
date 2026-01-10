@@ -1,4 +1,4 @@
-package com.day6.Artify;
+package com.day7.Artify;
 
 public class User {
     private String name;

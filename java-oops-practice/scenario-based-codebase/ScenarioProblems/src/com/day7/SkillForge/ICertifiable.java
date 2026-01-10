@@ -1,4 +1,4 @@
-package com.day6.SkillForge;
+package com.day7.SkillForge;
 
 public interface ICertifiable {
     void generateCertificate(Student student);
