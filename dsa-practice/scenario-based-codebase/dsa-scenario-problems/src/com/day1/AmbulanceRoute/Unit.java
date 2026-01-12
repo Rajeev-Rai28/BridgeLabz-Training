@@ -1,0 +1,15 @@
+package com.day1.AmbulanceRoute;
+
+public class Unit {
+
+    String name;
+    boolean available;
+    Unit next;
+
+    public Unit(String name, boolean available) {
+        this.name = name;
+        this.available = available;
+        this.next = null;
+    }
+}
+
