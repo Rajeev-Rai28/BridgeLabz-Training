@@ -1,4 +1,4 @@
-package com.day1LibraryOrganizer;
+package com.day1.LibraryOrganizer;
 
 public class BookShelfApp {
     public static void main(String[] args) {

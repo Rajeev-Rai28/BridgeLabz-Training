@@ -1,4 +1,4 @@
-package com.day1LibraryOrganizer;
+package com.day1.LibraryOrganizer;
 
 class Book {
     int id;
