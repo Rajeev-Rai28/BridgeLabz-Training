@@ -202,3 +202,24 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 👉 [Day 7 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day2)
 
 ---
+
+### 🗓 Day 8 – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13 -Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+🔗 **Code Links:**
+👉 [Day 8 - DSA Scenario-Based Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day3)
+
+---
