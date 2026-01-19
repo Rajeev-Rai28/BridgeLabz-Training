@@ -26,5 +26,4 @@ public class WarehouseItemApp {
         Storage.displayItems(furnitureStorage.getItems());
     }
     
-    
 }

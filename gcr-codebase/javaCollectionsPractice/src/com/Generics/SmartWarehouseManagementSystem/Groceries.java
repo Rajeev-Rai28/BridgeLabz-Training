@@ -12,5 +12,4 @@ public class Groceries extends WarehouseItem {
         return "Groceries";
     }
     
-    
 }

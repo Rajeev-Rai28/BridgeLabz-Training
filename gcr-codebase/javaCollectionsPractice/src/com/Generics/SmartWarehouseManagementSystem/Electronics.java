@@ -10,5 +10,4 @@ public class Electronics extends WarehouseItem {
     public String getCategory() {
         return "Electronics";
     }
-    
 }

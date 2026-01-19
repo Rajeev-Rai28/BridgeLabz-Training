@@ -14,7 +14,7 @@ public class Storage<T extends WarehouseItem> {
     public List<T> getItems() {
         return items;
     }
-
+    
     
     public static void displayItems(List<? extends WarehouseItem> items) {
         for (WarehouseItem item : items) {

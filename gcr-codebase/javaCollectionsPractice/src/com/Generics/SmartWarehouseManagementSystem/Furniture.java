@@ -11,4 +11,5 @@ public class Furniture extends WarehouseItem {
         return "Furniture";
     }
     
+    
 }

@@ -17,7 +17,5 @@ public abstract class WarehouseItem {
         return price;
     }
 
-    
-    
     public abstract String getCategory();
 }
