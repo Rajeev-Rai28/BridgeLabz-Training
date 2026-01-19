@@ -223,3 +223,20 @@ Worked on real-world DSA use cases using core data structures.
 👉 [Day 8 - DSA Scenario-Based Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day3)
 
 ---
+
+### 🗓 Day 9 – Sorting Algorithms Scenario Practice
+**(Date: 15-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+
+🔗 **Code Links:**  
+👉 [day 9 - DSA Sorting Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day4)
+
+---
