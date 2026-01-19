@@ -176,3 +176,29 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 👉 [Day 6 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day1)
 
 ---
+
+
+### 📅 Day 7 - Scenario-Based & Leetcode practice
+**(Date: 12-Jan-2026)**                                                                                           
+**Branch:** `dsa-practice`
+
+#### 🔹 Summary
+- Solved **5 DSA real-world scenarios**
+- Practiced **DSA problems on LeetCode**
+
+#### 🔹 DSA Scenarios Implemented
+- **TrafficManager** – Circular Linked List & Queue  
+- **BookShelf** – HashMap & Linked List  
+- **CallCenter** – Queue, PriorityQueue & HashMap  
+- **TrainCompanion** – Doubly Linked List  
+- **TextEditor** – Stack-based Undo/Redo  
+
+#### 🔹 Key Concepts Covered
+- Linked Lists, Stack, Queue, HashMap  
+- Core OOP Principles  
+- LeetCode-based DSA problem solving
+
+🔗 **Code Links:**
+👉 [Day 7 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day2)
+
+---
