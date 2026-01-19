@@ -267,6 +267,27 @@ Applied **Core OOP Principles**:
 - **ParkEase** – Smart parking slots & charge calculation  
 
 🔗 **Code Links:**  
-👉 [Day 11 – Scenario-Based Problems-Day6](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)
+👉 [Day 11 – Scenario-Based Problems-Day5](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)
+
+---
+
+
+### 📅 Day 12 - Scenario-Based OOP Practice
+
+**(Date: 08-Jan-2026)**  
+**Branch:**  `java-oops-practice`
+
+#### ✔ Scenarios Implemented
+- **MediStore** – Pharmacy inventory, sales, and expiry management  
+- **TourMate** – Travel itinerary planning and booking system  
+
+#### ✔ Concepts Used
+- Encapsulation & Access Modifiers  
+- Interfaces & Inheritance  
+- Polymorphism  
+- Constructor-based design and calculations
+
+🔗 **Code Links:**
+👉 [Day 12- Scenario-Based OOP Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day6)
 
 ---
