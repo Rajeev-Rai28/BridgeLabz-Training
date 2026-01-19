@@ -15,6 +15,7 @@ public class Storage<T extends WarehouseItem> {
         return items;
     }
 
+    
     public static void displayItems(List<? extends WarehouseItem> items) {
         for (WarehouseItem item : items) {
             System.out.println( "Category: " + item.getCategory() + ", Name: " + item.getName() +  ", Price: ₹" + item.getPrice() );

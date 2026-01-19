@@ -25,4 +25,6 @@ public class WarehouseItemApp {
         System.out.println("\n🪑 Furniture Items:");
         Storage.displayItems(furnitureStorage.getItems());
     }
+    
+    
 }

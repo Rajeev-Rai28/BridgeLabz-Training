@@ -10,4 +10,5 @@ public class Furniture extends WarehouseItem {
     public String getCategory() {
         return "Furniture";
     }
+    
 }
