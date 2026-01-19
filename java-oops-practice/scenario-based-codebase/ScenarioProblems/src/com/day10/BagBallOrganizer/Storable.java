@@ -1,5 +1,6 @@
 package com.day10.BagBallOrganizer;
 
-public class Storable {
-
+public interface Storable {
+    void displayInfo();
 }
+
