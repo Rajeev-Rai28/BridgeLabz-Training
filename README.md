@@ -131,3 +131,132 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 
 
 ---
+### 📅 Day 5 – Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**  
+**Branch:** `dsa-practice`  
+
+
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage  
+
+🔗 **Code Links:**  
+👉 [Day 5- Runtime Analysis & Big-O](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/TimeandSpaceComplexity)
+
+--- 
+
+### 📅 Day 6 - Scenario-Based DSA Practice
+**(Date: 10-Jan-2026)**
+**Branch:** `dsa-practice`
+
+###🔹 Scenarios Implemented
+- **BookShelf** – Library organizer using HashMap and LinkedList  
+- **BrowserBuddy** – Tab history manager using Doubly Linked List and Stack  
+- **AmbulanceRoute** – Emergency navigation using Circular Linked List  
+
+### 🔹 Data Structures Used
+- Singly, Doubly & Circular Linked Lists  
+- Stack  
+- HashMap (with optional HashSet)
+
+###🔹 Key Focus
+- Real-world problem modeling  
+- Efficient insert, delete, and traversal operations
+
+🔗 **Code Links:**
+👉 [Day 6 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day1)
+
+---
+
+
+### 📅 Day 7 - Scenario-Based & Leetcode practice
+**(Date: 12-Jan-2026)**                                                                                           
+**Branch:** `dsa-practice`
+
+#### 🔹 Summary
+- Solved **5 DSA real-world scenarios**
+- Practiced **DSA problems on LeetCode**
+
+#### 🔹 DSA Scenarios Implemented
+- **TrafficManager** – Circular Linked List & Queue  
+- **BookShelf** – HashMap & Linked List  
+- **CallCenter** – Queue, PriorityQueue & HashMap  
+- **TrainCompanion** – Doubly Linked List  
+- **TextEditor** – Stack-based Undo/Redo  
+
+#### 🔹 Key Concepts Covered
+- Linked Lists, Stack, Queue, HashMap  
+- Core OOP Principles  
+- LeetCode-based DSA problem solving
+
+🔗 **Code Links:**
+👉 [Day 7 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day2)
+
+---
+
+### 🗓 Day 8 – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13 -Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+🔗 **Code Links:**
+👉 [Day 8 - DSA Scenario-Based Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day3)
+
+---
+
+### 🗓 Day 9 – Sorting Algorithms Scenario Practice
+**(Date: 15-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+
+🔗 **Code Links:**  
+👉 [day 9 - DSA Sorting Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day4)
+
+---
+
+### 📅 Day 10 – Sorting Scenarios & Java Collections Framework  
+**(Date: 16-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+Solved **3 real-world scenario-based sorting problems**:
+
+- **RoboWarehouse** – Shelf loading using **Insertion Sort** (dynamic, streaming inserts)
+- **CinemaHouse** – Movie showtime ordering using **Bubble Sort** (small dataset)
+- **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
+
+#### ✅ Summary
+- Strengthened **sorting algorithm application**
+- Solved extensive **hands-on problems** across Quick, Selection, Merge, Insertion, & Bubble Sort
+- Continued structured, branch-wise learning
+
+🔗 **Code Links:**
+👉 [day 10 - DSA Sorting Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day5)
+
+---
