@@ -2,35 +2,25 @@ package com.JUnit.AdvancedJUnitPracticeProblems.TestingBankingTransactions;
 
 public class BankAccount {
 
-    private int balance;
+    private double balance;
 
-    public BankAccount(int balance) {
-        if (balance < 0) {
-            throw new IllegalArgumentException("Initial balance cannot be negative");
-        }
-        this.balance = balance;
+    public BankAccount(double initialBalance) {
+        this.balance = initialBalance;
     }
 
-    public void deposit(int amount) {
-        if (amount <= 0) {
-            throw new IllegalArgumentException("Amount must be positive");
-        }
+    public void deposit(double amount) {
+        if (amount <= 0)
+            throw new IllegalArgumentException("Invalid deposit amount");
         balance += amount;
     }
 
-    public void withdraw(int amount) {
-        if (amount <= 0) {
-            throw new IllegalArgumentException("Amount must be positive");
-        }
-
-        if (amount > balance) {
+    public void withdraw(double amount) {
+        if (amount > balance)
             throw new IllegalArgumentException("Insufficient funds");
-        }
-
         balance -= amount;
     }
 
-    public int getBalance() {
+    public double getBalance() {
         return balance;
     }
 }
