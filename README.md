@@ -198,3 +198,22 @@ Solved *5 real-world systems* using *Collections, Generics, I/O Streams, Regex, 
 👉 [Day 7 - Collections Scenarios-Based](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day1)
 
 ---
+
+### 📅 Day 8 – Collections-Based Scenario Java Practice
+*(Date: 24-Jan-2026)*         
+*Branche:* java-collections-practice
+
+#### 🔹 Scenario-Based Practice
+Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, Regex, JSON/CSV, and Custom Exceptions*:
+
+#### ✔ Scenarios Implemented
+- *MedInventory* – CSV inventory parsing, expiry detection, low-stock alerts
+- *ChatLogParser* – Chat analysis using regex, TreeMap sorting, filters
+- *SongVault* – Music file parsing, grouping, stream-based filtering
+- *ExamResultUploader* – CSV validation, subject-wise ranking, PriorityQueue
+- *DealTracker* – Deal parsing, expiry checks, duplicate prevention, sorting
+
+🔗 *Code Links:*  
+👉 [Day 8 - Collections Scenarios-Based](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day2)
+
+---
