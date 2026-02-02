@@ -179,3 +179,22 @@ Focused on *Annotations and Reflection* with practical examples.
 👉 [Reflection](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Reflection)
 
 ---
+
+### 📅 Day 7 – Collections-Based Scenario Java Practice  
+*(Date: 23-Jan-2026)*          
+*Branche:* java-collections-practice
+
+#### 🔹Scenario-Based Java Practice
+Solved *5 real-world systems* using *Collections, Generics, I/O Streams, Regex, and Exceptions*:
+
+#### ✔ Scenarios Implemented
+- *ResumeAnalyzer* – Resume parsing, regex-based extraction, keyword ranking
+- *TravelLog* – Object serialization, search using regex, stats using Map & Set
+- *FeedbackGuru* – Feedback analysis, rating extraction, category grouping
+- *CodeRepoCleaner* – Java file scanning, regex validation, file categorization
+- *ExamScanner* – CSV parsing, answer validation, scoring using Maps & PriorityQueue
+
+🔗 *Code Links:* 
+👉 [Day 7 - Collections Scenarios-Based](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day1)
+
+---
