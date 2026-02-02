@@ -155,3 +155,27 @@ Learned and practiced:
 👉 [JUnit](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/JUnit)
 
 ---
+
+### 📅 Day 6 – Annotations, Reflection with practice problems
+*(Date: 22-Jan-2026)*                        
+*Branch:* java-collections-practice
+
+Focused on *Annotations and Reflection* with practical examples.
+
+### Annotations
+- Purpose of annotations for metadata and configuration
+- Used built-in annotations like @Override, @Deprecated, @SuppressWarnings, @BugReport, @Repeatable
+- Created custom annotations
+- metadata handling using annotations
+- Explored real-world use cases (validation, logging, frameworks)
+
+### Reflection
+- Understood runtime inspection of classes, methods, and fields
+- Used Reflection APIs to access methods and annotations dynamically
+- Learned how annotations work with reflection in frameworks
+
+🔗 *Code Links:*  
+👉 [Day 6 - Annotations](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Annotations)
+👉 [Reflection](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Reflection)
+
+---
