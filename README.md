@@ -110,3 +110,19 @@ Learned *Java I/O Streams*:
 👉 [Day 3 - Java Streams](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Streams)
 
 ---
+### 📅 Day 4 – DSA, Logic Building & Exception Handling  
+*(Date: 20-jan-2026)*
+
+#### 🔹 Java Exception Handling (java-collections-practice)
+Learned and practiced:
+- Checked & Unchecked Exceptions  
+- Custom Exceptions (extending Exception)
+- try-catch, try-catch-finally
+- try-with-resources
+- throw and throws
+- Exception handling best practices
+
+🔗 *Code Links:*  
+👉 [Day 4 - Java Exceptions](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Exceptions)
+
+---
