@@ -74,3 +74,18 @@ Learned **JSON (JavaScript Object Notation)** for structured data exchange and p
 
 ---
 
+### 📅 Day 3 – IOstreams Based Scenario Problems  
+**(Date: 27-Jan-2026)**            
+**Branch:** `java-iostreams-practice`
+
+#### 🔹 Scenario-Based Implementations
+
+#### Java I/O + Annotations + Reflection
+- **HealthCheckPro** – API metadata scanning using custom annotations & reflection
+- **MarkMate** – CSV marks processing and JSON report generation
+- **EventTracker** – Audit logging via annotations, reflection, and JSON output
+
+🔗 **Code Links:**  
+👉 [Day 3 - IOStreams Scenarios-Based]()
+
+---
