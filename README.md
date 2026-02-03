@@ -39,5 +39,38 @@ Learned how to work with **CSV (Comma-Separated Values)** files for real-world d
 🔗 **Code Links:**  
 👉 [Day 1 - CSV Data Handling](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/CSVDataHandling)
 
+
+---
+
+
+### 📅 Day 2 – JSON Data Handling & Scenario-Based Java Practice  
+**(Date: 24-Jan-2026)**         
+**Branche:** `java-iostreams-practice`
+
+#### 🔹 JSON Data Handling in Java
+Learned **JSON (JavaScript Object Notation)** for structured data exchange and processing.
+
+#### Topics Covered
+- JSON fundamentals: objects, arrays, nested structures
+- Creating JSON using:
+  - `org.json`
+  - **Gson**
+  - **Jackson**
+- Reading JSON:
+  - Mapping JSON → POJO (`ObjectMapper.readValue`)
+  - Dynamic parsing using `JsonNode`
+- Writing JSON:
+  - Java objects → JSON files
+- Nested JSON & JSON arrays
+- JSON Schema Validation for structure and data integrity
+
+#### Key Takeaways
+- Jackson is best for **enterprise-grade JSON processing**
+- Gson is lightweight and simple
+- JSON Schema ensures **data consistency and validation**
+
+🔗 **Code Links:**  
+👉 [Day 2 - JSON Data](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/jsonData)
+
 ---
 
