@@ -86,6 +86,6 @@ Learned **JSON (JavaScript Object Notation)** for structured data exchange and p
 - **EventTracker** – Audit logging via annotations, reflection, and JSON output
 
 🔗 **Code Links:**  
-👉 [Day 3 - IOStreams Scenarios-Based]()
+👉 [Day 3 - IOStreams Scenarios-Based](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOScenarioPractice/src/com/day1)
 
 ---
