@@ -3,7 +3,7 @@
 ---
 
 ### 📅 Day 1 – MySQL & JDBC Fundamentals  
-**(Date: 06-Jan-2026)**         
+**(Date: 06-Feb-2026)**         
 **Branch:** `mysql-jdbc-practice`
 
 #### 📁Project Structure
