@@ -12,7 +12,7 @@ public class UserInterface {
 		int totalVessle = Integer.parseInt(sc.nextLine());
 		
 		System.out.println("Enter vessel details");
-		for(int i = 0; i< totalVessle; gi++) {
+		for(int i = 0; i< totalVessle; i++) {
 
 			String input = sc.nextLine();  
 
