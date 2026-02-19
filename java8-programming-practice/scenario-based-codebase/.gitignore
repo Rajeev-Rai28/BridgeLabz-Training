@@ -1,4 +1,9 @@
 # Eclipse specific files
+*.class
+bin/
+target/
+out/
+
 
 .metadata/
 .settings/
