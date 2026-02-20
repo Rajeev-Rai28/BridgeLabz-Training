@@ -1,32 +1,177 @@
 # BridgeLabz-Training
+> 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
+> 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
 
+![Java](https://img.shields.io/badge/Java-Core-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![DSA](https://img.shields.io/badge/DSA-Practice-blue)
+
+## Training Overview📈💡
+This repository documents my learning journey at BridgeLabz pre-onboarding training program as part of the **Capgemini** onboarding process, spanning from December 15, 2025 to present.
+The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
+
+## ♨️Repository Branches :-         
+[``🔹 core-java-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/core-java-practice)
+**➡️ Week 1:** Fundamentals of Java Programming
+
+[``🔹 java-oops-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice)
+**➡️ Week 2:** Object-Oriented Programming
+
+[``🔹 dsa-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice)
+**➡️ Week 3:** Data Structures & Algorithms
+
+[``🔹 java-collections-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice)
+**➡️ Week 4:** Java Collections & Streams
+
+[``🔹 java-iostreams-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-iostreams-practice)
+**➡️ Week 5:** IO Programmming, Data & File-Handling
+
+[``🔹 java8-programming-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice)
+**➡️ Week 6:** Java-8 and it's feature
+
+[``🔹 java-design-pattern-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-design-pattern-practice)
+**➡️ Week 7:** Solution Designing(Design Priciples & Patterns)
+
+[``🔹 mysql-jdbc-practice``](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/mysql-jdbc-practice)
+**➡️ Week 8:** MySQL Database & JDBC(Java-Database-Connectivity)
+
+---
 
 # 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
-## 🗓 Day 1 – Git & GitHub Setup  
-*(Date: 15-Dec-2025)*
+## 📁Project Structure
+
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extra/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 keywords/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 encapsulation/
+│   │               ├── 📁 inheritance/
+│   │               ├── 📁 abstraction/
+│   │               └── 📁 polymorphism/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaCollections/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/
+│   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 exceptions/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 JUnit/
+│   │               ├── 📁 reflection/
+│   │               └── 📁 annotations/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaIOStreams/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 CSV Data Handling/
+|   |               └── 📁 JSON Data/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Programming/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 LamdaExpressions/
+|   |               ├── 📁 FunctionalInterfaces/
+|   |               ├── 📁 MethodReferences/
+|   |               ├── 📁 Stream API/
+|   |               └── 📁 Collectors/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaSolutionDesigning/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 DesignPattern/
+|   |               └── 📁 Multithreading/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 mysql-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 mysqlpractice/
+│   │       └── 📁 src/
+│   │           |── 📁 main/
+│   │           |   ├── 📁 java/
+|   |           |   |   └── 📁 com/
+|   |           |   |       └── 📁 mysqlpractice/
+|   |           |   |                   
+|   |           |   └── 📁 resources/
+|   |           |       └── 📁 sql/
+|   |           |
+|   |           └── 📁 test/
+│   │               ├── 📁 java/
+|   |               └── 📁 resources/
+|   |            
+|   └── 📁 scenario-based-codebase/
+|
+|
+└── README.md
+```
+---
+
+## 📅 Week 1 – Java Programming Fundamentals
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 🗓 Day 1 – Git & GitHub Setup  
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
-text
-```
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-```
-- Learned basic Git commands (init, clone, add, commit, push).
+- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`, `rebase`).
 - Successfully pushed files to the remote repository.
 
 ---
@@ -141,6 +286,7 @@ BridgeLabz-Training/
 
 ---
 
+
 ## 🗓 Day 8 – Extra String Problems, String Handling & Built-in Function
 *(Date: 23-Dec-2025)*
 
@@ -167,7 +313,18 @@ BridgeLabz-Training/
   🔗 *Code Link:*  
 👉 [Scenario-Based Problems](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
    
+
+</details>
+
 ---
+
+## 📅 Week 2 - Introduction to Object Oriented Programming
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
 
@@ -326,6 +483,15 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationAndPolymorphism)
 👉 [Scenario-Based Problems-Day1 GuideLines--> Learn proper GuideLines and follow these])
 
+</details>
+
+---
+
+## 📅 Week 3 - DSA Overview & Scenario-based OOP Practice – Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
 ---
 
 
@@ -474,5 +640,38 @@ Applied **Core OOP Principles** through real-world systems:
 👉 [InputStreamReader](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/InputStreamReader)
 👉 [ChallengeProblem](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/ChallengeProblems)
 👉 [Scenario-Based Problems-Day4](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)
+
+---
+### 📅 Day 19 – Runtime Analysis & Big-O Notation   
+**(Date: 07-Jan-2026)**                                                         
+**Branch:** `dsa-practice`
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
+
+#### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **LoanBuddy** – Loan approval & EMI calculation system  
+- **BookBazaar** – Bookstore inventory, orders & discounts  
+- **ParkEase** – Smart parking slots & charge calculation
+  
+🔗 **Code Links:**
+👉 [Day 19- Runtime Analysis & Big-O](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDSAPractice/src/com/TimeandSpaceComplexity)
+👉 [Scenario-Based Problems - Day5](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)
 
 ---
