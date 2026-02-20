@@ -1636,5 +1636,5 @@ Improved string processing and edge-case handling skills.
 
  This repository reflects continuous learning, clean coding practices, and readiness for enterprise-level development.
 
-**👨‍💻 Maintained by:** [Harshal Choudhary](https://github.com/Rajeev-Rai28)  
+**👨‍💻 Maintained by:** [Rajeev Rai](https://github.com/Rajeev-Rai28)  
 **🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
