@@ -1632,3 +1632,9 @@ Improved string processing and edge-case handling skills.
 👉 [Day 51 - Logical Problem](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/scenarioProblems/src/com/practiceProblems)
 
 ---
+</details>
+
+ This repository reflects continuous learning, clean coding practices, and readiness for enterprise-level development.
+
+**👨‍💻 Maintained by:** [Harshal Choudhary](https://github.com/Rajeev-Rai28)  
+**🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
