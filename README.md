@@ -732,3 +732,246 @@ Applied **Core OOP Principles**:
 👉 [Day 22 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day1)
 
 ---
+
+### 📅 Day 23 - Scenario-Based & Leetcode practice
+**(Date: 12-Jan-2026)**                                                                                        
+**Branch:** `dsa-practice` & `java-oops-practice`
+
+#### 🔹 Summary
+- Solved **5 DSA real-world scenarios**
+- Solved **3 Java OOP scenario-based problems**
+
+#### 🔹 DSA Scenarios Implemented
+- **TrafficManager** – Circular Linked List & Queue  
+- **BookShelf** – HashMap & Linked List  
+- **CallCenter** – Queue, PriorityQueue & HashMap  
+- **TrainCompanion** – Doubly Linked List  
+- **TextEditor** – Stack-based Undo/Redo  
+
+#### 🔹 Java OOP Scenarios Implemented
+- **HomeNest** – Smart home device manager  
+- **BudgetWise** – Personal finance tracker  
+- **GameBox** – Mobile game distribution platform  
+
+#### 🔹 Key Concepts Covered
+- Linked Lists, Stack, Queue, HashMap  
+- Core OOP Principles  
+
+🔗 **Code Links:**
+👉 [Day 23 - Scenario-Based DSA Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day2)
+👉 [Java OOPs Scenario Problems](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)
+
+---
+
+### 🗓 Day 24  – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+####  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **PayXpress** – Utility Bill Payment System
+- **EcoWing Bird Sanctuary** – Bird behavior tracking system
+- **Bird Sanctuary (Advanced)** – Annotations and Reflection
+  
+🔗 **Code Links:**
+👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day3)
+👉 [Java OOPs Scenario Problems](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day9)
+
+</details>
+
+---
+
+## 📅 Week 4 - Java Collections, Streams - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 🗓 Day 25 – Java Generics Overview & Sorting Scenario Practice
+**(Date: 15-Jan-2026)**                     
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+#### 🔹 Created a new branch `java-collections-practice`
+- Learned and applied Java Generics best practices:
+  - Generic classes, methods, and constructors
+  - Bounded type parameters and wildcards
+  - Type safety and reusability
+
+#### 🔹 Topics Learned
+- Type safety with generics
+- Generic classes, methods, and constructors
+- Upper & lower bounded wildcards
+- Bounded type parameters
+- Avoiding raw types and type erasure pitfalls
+- Designing clean and reusable generic APIs
+  
+#### 🔹 Implemented real-world generic systems:
+  - Smart Warehouse Management
+  - Online Marketplace
+  - Course Management System
+  - Meal Plan Generator
+  - AI-Driven Resume Screening System
+
+
+#### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
+
+🔗 **Code Links:**   
+👉 [Day 25 - Java Generics Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Generics)
+👉 [DSA Sorting Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day4)
+
+
+---
+
+### 📅 Day 26 – Sorting Scenarios & Java Collections Framework  
+**(Date: 16-Jan-2026)**           
+**Branch:** `dsa-practice`
+
+Solved **3 real-world scenario-based sorting problems**:
+
+- **RoboWarehouse** – Shelf loading using **Insertion Sort** (dynamic, streaming inserts)
+- **CinemaHouse** – Movie showtime ordering using **Bubble Sort** (small dataset)
+- **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
+
+#### 🔹 Java Collections Framework  
+**Branch:** `java-collections-practice`       
+
+Learned and practiced the **Java Collections Framework** in depth:
+
+#### ✔ Core Topics Covered
+- Collection hierarchy: `List`, `Set`, `Queue`, `Map`
+- Implementations:
+  - **List:** ArrayList, LinkedList, Vector
+  - **Set:** HashSet, LinkedHashSet, TreeSet
+  - **Queue/Deque:** PriorityQueue, ArrayDeque
+  - **Map:** HashMap, LinkedHashMap, TreeMap, Hashtable
+- Performance comparison & real-world use cases
+- Best practices: generics, choosing correct collection, avoiding legacy misuse
+
+#### ✔ Practice Problems Implemented
+- **List operations:** reverse, rotate, frequency count, remove duplicates
+- **Set operations:** union, intersection, subsets, sorting
+- **Queue problems:** reverse queue, triage system, circular buffer
+- **Map problems:** word frequency, merge maps, grouping objects
+- **Mini systems:**
+  - Insurance Policy Management
+  - Banking System
+  - Voting System
+  - Shopping Cart
+
+#### ✅ Summary
+- Strengthened **sorting algorithm application**
+- Built strong fundamentals of **Java Collections**
+- Solved extensive **hands-on problems** across List, Set, Queue, and Map
+- Continued structured, branch-wise learning
+
+🔗 **Code Links:**   
+👉 [Day 26 - Java Collections](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Collections)
+👉 [DSA Sorting Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day5)
+
+---
+
+### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice)  
+**(Date: 17-Jan-2026)**        
+**Branch:** `dsa-practice`
+
+Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
+
+#### 🔹 Sorting Scenarios Implemented
+
+- **IceCreamRush** – Sorted ice cream flavors by weekly sales using **Bubble Sort**  
+  *Focus:* small dataset, simple adjacent comparisons
+
+- **SmartLibrary** – Maintained alphabetically sorted borrowed books using **Insertion Sort**  
+  *Focus:* dynamic insertion, nearly sorted data
+
+- **ArtExpo** – Managed artist registrations sorted by time using **Insertion Sort**  
+  *Focus:* real-time insertion, incremental sorting
+
+- **FleetManager** – Combined vehicle maintenance schedules using **Merge Sort**  
+  *Focus:* merging sorted sublists, scalability for large datasets
+
+####  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Solved **2 OOP-based scenario questions**:
+- **GeoMeasure Solutions** – Line comparison using classes, constructors, encapsulation, methods, and `this` keyword.
+- **Bag-n-Ball Organizer** – Modeled Bag–Ball relationship using classes, encapsulation, composition, and method design (capacity checks, add/remove/display).
+
+🔗 **Code Links:**   
+👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day6)
+👉 [Java OOPs Scenario Problems](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day10)
+
+---
+
+### 📅 Day 28 – DSA, OOPS & Java Collections  
+**(Date: 19-Jan-2026)**       
+
+#### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+
+#### 🔹 Java Collections / I-O Streams `(java-collections-practice)`
+Learned **Java I/O Streams**:
+- Byte Streams & Character Streams
+- File, Buffered, Object, ByteArray, Data, Piped Streams
+- Reader & Writer with encoding
+- **🛠 Best practices:** buffering, try-with-resources, serialization, File read/write using FileInputStream & FileOutputStream, Large file copy using Buffered Streams (performance comparison),
+ Console input → file storage, Object serialization & deserialization, Image to byte array conversion, Uppercase to lowercase file filter, DataStreams for primitive data, PipedStreams (inter-thread communication), Read large file line-by-line (error filter), Word frequency counter (Top 5 words)
+
+🔗 **Code Links:**  
+👉 [Day 28 - Java Streams](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Streams)
+👉 [Sorting Algorithm Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com/day7)
+
+---
+
+### 📅 Day 29 – DSA, Logic Building & Exception Handling  
+**(Date: 20-jan-2026)**                 
+
+#### 🔹 DSA – Scenario Based Sorting (dsa-practice)
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+#### 🔹 Java Exception Handling (java-collections-practice)
+Learned and practiced:
+- Checked & Unchecked Exceptions  
+- Custom Exceptions (extending `Exception`)
+- `try-catch`, `try-catch-finally`
+- `try-with-resources`
+- `throw` and `throws`
+- Exception handling best practices
+
+🔗 **Code Links:**  
+👉 [Day 29 - Java Exceptions](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javaCollectionsPractice/src/com/Exceptions)
+👉 [Sorting Algorithm Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/dsa-scenario-problems/src/com)
+
+---
