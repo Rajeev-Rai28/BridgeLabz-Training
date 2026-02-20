@@ -1634,7 +1634,7 @@ Improved string processing and edge-case handling skills.
 ---
 </details>
 
- This repository reflects continuous learning, clean coding practices, and readiness for enterprise-level development.
+Reflects applied knowledge of software design principles, efficient data handling, and structured project organization aligned with enterprise development standards.
 
 **👨‍💻 Maintained by:** [Rajeev Rai](https://github.com/Rajeev-Rai28)  
 **🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
