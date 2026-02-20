@@ -1237,3 +1237,237 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 👉 [Day 36 - Collectors](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Programming/src/com/Collectors)
 
 ---
+
+
+
+### 📅 Day 37 – Lambda Expressions & Stream API Scenarios(Java 8)
+**(Date: 30-Jan-2026)**         
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Work Done
+- Practiced **Lambda Expressions** with real-time scenarios (Student, Employee, Banking, E-Commerce)
+- Used lambdas for **sorting, filtering, calculations, validation, and threading**
+- Solved **advanced Stream API problems** on Students & Employees
+- Applied `filter`, `map`, `sorted`, `limit`, `count`, `flatMap`
+- Performed **grouping, aggregation, min/max, ranking, and partitioning**
+- Converted collections to **Map** and handled **top/bottom N queries**
+
+🔗 **Code Link:** 
+👉 [Day 37 - Java8 Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/scenarioProblems/src/com/StreamScenariosIntermediateProblems)
+
+</details>
+
+---
+
+## 📅 Week 7 - Solution Designing - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
+**Date: 31-Jan-2026)**        
+**Branch:** `java-design-pattern-practice`
+
+#### 🔹 Design Principles Covered
+- **SOLID Principles:** SRP, OCP, LSP, ISP, DIP  
+- **Clean Code Principles:** DRY, KISS, YAGNI  
+- Focus on maintainability, scalability, and loose coupling
+
+#### 🔹 GoF Design Patterns
+- **Singleton Pattern** – controlled object creation
+- **Factory Pattern** – abstraction of object instantiation
+- **Builder Pattern** – step-by-step object construction
+- **Observer Pattern** – event-based communication
+- Introduction to **UML diagrams** for pattern representation
+
+#### 🔹 Java 8 – Optional Class
+- Used to eliminate `NullPointerException`
+- Practiced `of()`, `ofNullable()`, `isPresent()`, `ifPresent()`
+- Applied `orElse()`, `orElseGet()`, `orElseThrow()` for safe defaults
+- Solved real-world scenarios across **Student, Employee, Banking,
+  E-Commerce, and System utility** modules
+
+🔗 **Code Link:** 
+👉 [Day 38 - Design Patterns](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/DesignPatterns)
+
+---
+
+### 📅 Day 39 – Java Multithreading
+**(Date: 02-Feb-2026)**                   
+**Branch:** `java-design-pattern-practice`
+
+#### 🔹 Core Concepts
+- **Process:** OS-level execution unit containing one or more threads  
+- **Thread:** Lightweight sub-process; smallest unit of execution  
+- Threads share process memory but have independent execution paths  
+- **Multithreading:** Enables parallel task execution and better CPU utilization
+
+#### 🔹 Pros & Cons
+**Pros:** Better resource usage, faster execution, responsive GUI, fault isolation  
+**Cons:** Complex code, synchronization overhead, debugging difficulty, deadlock & starvation risks
+
+#### 🔹 Thread Lifecycle
+- New → Runnable → Running → Blocked/Waiting → Terminated  
+- Managed by JVM thread scheduler
+
+#### 🔹 Thread Creation
+- Extending `Thread` class  
+- Implementing `Runnable` interface (preferred for flexibility)
+
+#### 🔹 Thread Class Highlights
+- Methods practiced: `start()`, `run()`, `sleep()`, `join()`, `yield()`, `isAlive()`  
+- Thread naming, priority, interruption handling  
+- **User vs Daemon threads** and JVM termination behavior  
+- Explored `Thread.State`, `currentThread()`, and lifecycle monitoring
+
+🔗 **Code Link:** 
+👉 [Day 39 - Multithreading](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/MultiThreading)
+
+---
+
+### 📅 Day 40 – Java 8 Stream API (Scenario-Based) & Multithreading
+**(Date: 03-Feb-2026)**      
+**Branches:** `java8-programming-practice`, `java-design-pattern-practice`
+
+#### 🔹 Java 8 Stream API – Scenario Practice
+Solved **30+ real-world logical problems using Java Streams only**, focusing on:
+- Character & word frequency analysis
+- First / all non-repeating characters
+- Removing duplicates & filtering characters
+- String cleansing (alphabets, digits, alphanumeric)
+- Numeric operations: sum, max, top-K, even/odd partitioning
+- List & Map transformations, sorting, grouping, flattening
+- Advanced queries like kth smallest, longest string, intersections
+
+Emphasis on **filter, map, flatMap, distinct, sorted, limit, reduce, Collectors**
+
+#### 🔹 Multithreading Scenario – Bank Transactions
+Implemented a **thread-safe banking system** with:
+- Concurrent **deposit & withdrawal** operations
+- Multiple customers as independent threads
+- Proper **synchronization** to prevent race conditions
+- Correct balance updates under concurrent access
+- Driver program demonstrating safe parallel execution
+
+✔ Strengthened problem-solving using **Streams + concurrency fundamentals**  
+✔ Practiced interview-oriented, real-time scenarios
+
+🔗 **Code Link:** 
+👉 [Day 40 - Stream API Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/scenarioProblems/src/com/StreamLogicalQuestions)
+👉 [Multithreading Scenarios](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java-design-pattern-practice/)
+
+---
+
+### 📅 Day 41 – Java 8 Stream API (Conversions)
+**(Date: 04-Feb-2026)**        
+**Branch:** `java8-programming-practice`
+
+#### 🔹 What I Practiced
+Solved **conversion-based logical problems using Java 8 Streams**, focusing on transforming data between different collection types.
+
+#### 🔹 Key Conversions
+- **List ↔ Map:** indexing, frequency count, grouping, handling duplicate keys
+- **Map ↔ List:** keys, values, entries, sorting & filtering
+- **List ↔ Set:** removing duplicates, ordering, sorting
+- **Array ↔ Collections:** 1D/2D arrays, flattening, distinct mapping
+- **Object Conversions:** grouping, flattening, composite keys
+- **Other:** Stream/Optional conversions, formatted strings
+
+✔ Strengthened hands-on skills with `Collectors`, `map`, `flatMap`, and `groupingBy`
+
+👉 [Day 41 - Stream API Logical Questions](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/scenarioProblems/src/com/StreamLogicalQuestions)
+
+---
+
+### 📅 Day 42 – Logical Problem (C# Console Application)
+**(Date: 05-Feb-2026)**
+
+#### 🔹 Problem Overview
+Implemented a **menu-driven console application** for *StreamBuzz*, a digital content platform to track creators’ engagement over 4 weeks.
+
+#### 🔹 Key Functionalities
+- Register creators with weekly like counts
+- Identify top-performing creators based on a like threshold
+- Calculate overall average weekly likes
+- Graceful program termination with exit message
+
+#### 🔹 Core Concepts Used
+- Classes & public properties
+- Arrays and Lists
+- Dictionary-based aggregation
+- Conditional logic & looping
+- User input handling and formatted output
+
+✔ Focused on clean logic, data aggregation, and rule-based result generation
+
+👉 [Day 42 - Logical Question](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/scenarioProblems/src/com/practiceProblems)
+
+</details>
+
+---
+
+## 📅 Week 8 - MySQL Database & JDBC(Java-Database-Connectivity)
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 43 – MySQL & JDBC Fundamentals  
+**(Date: 06-Feb-2026)**         
+**Branch:** `mysql-jdbc-practice`
+
+#### 🔹 Topics Covered
+- Overview of **MySQL as an RDBMS** and real-world database usage
+- **Database design principles**: normalization (1NF to BCNF), primary & foreign keys
+- **Constraints**: NOT NULL, UNIQUE, CHECK, DEFAULT, AUTO_INCREMENT
+- **SQL command categories**: DDL, DML, DQL, DCL, TCL
+- **Joins** (INNER, LEFT, RIGHT), subqueries, CTEs, and window functions
+- **Transactions & ACID properties** for data consistency
+- **Indexing concepts** in MySQL & SQL Server
+- Query performance tuning using `EXPLAIN`
+
+#### 🔹 Hands-On Practice
+- Practiced SQL queries on real-world scenarios:
+  - **Employee Management System** – CRUD operations, search & updates
+  - **Banking System** – balance handling with transactions
+  - **Library Management System** – book inventory, issue/return, user tracking
+
+✔ Strengthened understanding of **data integrity, performance optimization, and JDBC-ready SQL design**
+
+👉 [Day 43 - MySQL Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysqlpractice/src/main/resources/sql)
+
+---
+
+### 📅 Day 44 – MySQL + JDBC Scenario Practice & PowerSkill Training  
+**(Date: 07-Feb-2026)**    
+**Branch:** `mysql-jdbc-practice`
+
+#### 🔹 Technical Practice (Scenario-Based)
+Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Management System**, covering:
+- **Patient Management:** registration, update, search, visit history (CRUD, LIKE, JOINs)
+- **Doctor Management:** add/update specialty, view by specialty, soft delete
+- **Appointment Scheduling:** book, cancel, reschedule, availability check (transactions)
+- **Medical Records:** visits, prescriptions, patient history (one-to-many, batch inserts)
+- **Billing & Payments:** bill generation, payments, outstanding bills, revenue reports
+- **System Admin:** specialty lookup, audit logs, backup concepts
+
+#### 🔹 Key Concepts Applied
+- Primary & Foreign Keys, Auto-Increment  
+- INNER / LEFT JOINs, Subqueries  
+- Transactions (COMMIT / ROLLBACK)  
+- PreparedStatement (SQL injection prevention)  
+- Aggregate functions (COUNT, SUM, AVG)  
+- Batch operations, ResultSet handling, indexing & triggers  
+
+#### 🔹 PowerSkill Training
+- Attended **PowerSkill session on Communication Skills**
+- Learned importance of **clear speaking, active listening, confidence, and professional interaction**
+
+✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
+
+👉 [Day 44 - MySQL Scenario-Based Practice](https://github.com/Rajeev-Rai28/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice)
+
+---
